@@ -12,7 +12,6 @@ int main() {
     else {
         printf("The maximum number is: %.2f\n", c);
     }
-
     return 0;
     }
 
